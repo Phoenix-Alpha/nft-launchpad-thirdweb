@@ -1,0 +1,1 @@
+NFT LaunchPad built with thirdweb SDK for demonstration purpose
